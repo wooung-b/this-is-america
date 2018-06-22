@@ -1,6 +1,5 @@
 <style>
 	body{ margin: auto; position: relative; }
-	.black{ background: black; z-index: 9999; }
 	.white{ background: white; }
 	.wrap{ width: 1400px; margin: auto; position: relative; }
 	#home{ height: 1200px;}
