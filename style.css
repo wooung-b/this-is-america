@@ -3,7 +3,7 @@
 	.black{ background: black; z-index: 9999; }
 	.white{ background: white; }
 	.wrap{ width: 1400px; margin: auto; position: relative; }
-	#home{ height: 1217px;}
+	#home{ height: 1200px;}
 	#menu1{ height: 1631px;}
 	#menu2{ height: 7370px;}
 	#menu3{ height: 2580px;}
